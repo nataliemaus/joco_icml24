@@ -1,0 +1,7 @@
+*.json
+falcon_all_prompts_and_generated_text/*.csv
+*.pt
+__pycache__/
+__pycache__/*
+wandb/
+wandb/*
